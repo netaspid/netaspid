@@ -1,10 +1,10 @@
-Всем привет :)
+Hello everyone :)
 
-Меня зовут Алексей Янкив, я
-<b>JS\Full-stack developer</b>
+My name is Alexey Yankiv, i'm
+<b> JS \ Full-stack developer </b>
 
-Люблю делать крутые штуки для социалок и работать с сетевыми интерфейсами.
-Большая часть репозиториев под замком, но постепенно буду наполнять свой гит крутыми штуками :)
+I love doing cool things for social networks and working with network interfaces.
+Most of the repositories are under lock and key, but I will gradually fill my git with cool stuff :)
 
 Stay tuned! :)
 
