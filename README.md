@@ -8,4 +8,4 @@
 
 Stay tuned! :)
 
-[![z](https://github-readme-stats.vercel.app/api?username=netaspid)](https://github.com/netaspid)
+[![z](https://github-readme-stats.vercel.app/api?username=netaspid&show_icons=true&theme=tokyonight)](https://github.com/netaspid)
